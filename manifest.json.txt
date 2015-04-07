@@ -1,0 +1,32 @@
+{
+    "name" : "",
+    "description" : "",
+    "tools" : [
+        {
+            "name" : "MapSet",
+            "location" : "./tools/MyTool.js",
+            "label": "Luc's Map Set"
+        },
+        {
+            "name" : "MyOtherTool",
+            "location" : "./tools/MyOtherTool.js",
+            "label" : "Luc's Other Tool"
+        }
+    ],
+
+    "behaviors" : [
+        {
+            "name" : "MyBehavior",
+            "location" : "./behaviors/MyBehavior.js",
+            "label" : "Luc's Behavior"
+        }
+    ],
+
+    "pictureMarkerSets": [
+        {
+            "label": "My Picture Marker Set",  
+	           "description" : "Luc's Picture Marker Set",
+            "location": "./symbols/MyPictureMarkerSet.json.txt"
+        }
+    ]
+}
