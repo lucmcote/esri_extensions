@@ -4,8 +4,8 @@
     "tools" : [
         {
             "name" : "MapSet",
-            "location" : "./tools/MyTool.js",
-            "label": "Luc's Map Set"
+            "location" : "./esri_extensions/alert.js",
+            "label": "Luc's Alert"
         },
         {
             "name" : "MyOtherTool",
